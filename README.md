@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">👋 Hey there!<br>I'm Aravind Reddy<br>Focused on AI · Skilled in Full-Stack · Curious about XR<br>Code, deploy, iterate — always learning</h1>
+<h1 align="center">👋 Hey there!<br>I'm Aravind Reddy<br>Focused on AI · Skilled in Full-Stack · Curious about XR<br>Code, deploy, iterate , always learning</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a Master’s student in Applied Computing at the University of Windsor, currently diving deep into full-stack development and applied AI.<br>🌱 I’m learning how to build and fine-tune LLM-powered apps using LangChain and Unsloth<br>🧠 Exploring prompt engineering, context optimization, and... a bit of vibe coding too<br>🎯 Passionate about bridging AI with AR/VR — I believe immersive tech is the next frontier<br>🔍 Looking for a Fall 2025 co-op to apply my skills in real-world, high-impact teams<br>📝 On the side, I read web novels, binge series, and blog about films I love (and hate)</p>
+<p align="left">I'm a Master’s student in Applied Computing at the University of Windsor, currently diving deep into full-stack development and applied AI.<br>🌱 I’m learning how to build and fine-tune LLM-powered apps using LangChain and Unsloth<br>🧠 Exploring prompt engineering, context optimization, and... a bit of vibe coding too<br>🎯 Passionate about bridging AI with AR/VR  I believe immersive tech is the next frontier<br>🔍 Looking for a Fall 2025 co-op to apply my skills in real-world, high-impact teams<br>📝 On the side, I read web novels, binge series, and blog about films I love (and hate)</p>
 
 ###
 
